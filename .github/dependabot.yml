@@ -1,0 +1,19 @@
+# Basic dependabot.yml file with monthly check
+# This forces GitHub to scan your repository for security vulnerabilities
+# or outdated packages and automatically create Pull Requests to upgrade them.
+
+version: 2
+updates:
+  # Enable version updates for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 10
+
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 10
