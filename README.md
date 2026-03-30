@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 About
+## About
 
 `dev-sec-cheatsheets` is an open-source initiative designed to be the ultimate quick-reference guide for IT professionals. 
 
@@ -25,7 +25,7 @@ We realized that developers and security engineers often waste valuable time sea
 
 **Our focus is on quality over quantity.** We only accept practical, situational snippets that are ready to be used in real-world environments.
 
-## 📂 Categories
+## Categories
 
 The repository is structured into domain-specific documentation:
 
@@ -35,9 +35,9 @@ The repository is structured into domain-specific documentation:
 - **[Automation](./docs/automation/)**: Python execution scripts and daily Bash automation.
 - **[Version Control](./docs/version-control/)**: Advanced Git recovery techniques and incident management.
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions from everyone in the community—whether you're fixing a typo or adding an entirely new category. 
+We welcome contributions from everyone in the community—whether you are fixing a typo or adding an entirely new category. 
 
 To maintain the high standard of this knowledge base, all contributors are required to follow our structured review process. Please read our [Contributing Guidelines](./CONTRIBUTING.md) before submitting a Pull Request.
 

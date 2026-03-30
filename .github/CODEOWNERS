@@ -1,0 +1,7 @@
+# These owners will be the default reviewers for pull requests in exactly
+# the same way that GitHub automatically assigns reviewers.
+#
+# In a large organization, this prevents code from being merged without approval
+# from an authoritative maintainer.
+
+*       @DigitalBulwark @Kavleri
